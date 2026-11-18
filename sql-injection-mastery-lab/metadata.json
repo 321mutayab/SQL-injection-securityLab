@@ -1,0 +1,6 @@
+{
+  "name": "SQL Injection (SQLi) Practical Cybersecurity Documentation",
+  "description": "University-level practical cybersecurity laboratory documentation and interactive simulator covering SQL Injection (SQLi) attack mechanics, local Flask/SQLite lab demonstration, detection, parameterized query prevention, and verification testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
